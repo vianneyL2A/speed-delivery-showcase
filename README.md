@@ -119,5 +119,5 @@ lib/app/
 ---
 
 <p align="center">
-  <sub>Développé par <b>BARCOLA Vianney</b> (<a href="https://github.com/vianneyL2A">@vianneyL2A</a>) · Lomé, Togo</sub>
+  <sub>Développé par <b>BARCOLA Mazamesso</b> (<a href="https://github.com/vianneyL2A">@vianneyL2A</a>) · Lomé, Togo</sub>
 </p>
