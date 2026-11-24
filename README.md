@@ -14,7 +14,7 @@
 
 # Speed Delivery — application client
 
-**Speed Delivery** est une application mobile de livraison à la demande développée pour **Speeder Services** à Lomé (Togo). Depuis une seule application, l'utilisateur commande un repas, des médicaments ou des courses, ou envoie un colis par un livreur (« Speeder »). Il suit ses commandes et paie depuis son téléphone.
+**Speed Delivery** est une application mobile de livraison à la demande développée pour **Speed Server**, société de coursiers à Lomé (Togo). Depuis une seule application, l'utilisateur commande un repas, des médicaments ou des courses, ou envoie un colis par un livreur (« Speeder »). Il suit ses commandes et paie depuis son téléphone.
 
 > 🔒 **Le code source est privé (projet client).** Ce dépôt présente le produit, l'architecture et les problèmes techniques que j'ai résolus. Démo ou revue de code sur demande.
 
